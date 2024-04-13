@@ -1,0 +1,4 @@
+pytube
+moviepy
+IPython
+openai
